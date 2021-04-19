@@ -212,14 +212,14 @@
                             <i class="fas fa-map-marker-alt"></i>
                             <div class="info">
                                 <div class="head">Address</div>
-                                <div class="sub-title">Surkhet, Nepal</div>
+                                <div class="sub-title">Wlahar Brebes central java</div>
                             </div>
                         </div>
                         <div class="row">
                             <i class="fas fa-envelope"></i>
                             <div class="info">
                                 <div class="head">Email</div>
-                                <div class="sub-title">abc@gmail.com</div>
+                                <div class="sub-title">Soegiono1998@gmail.com</div>
                             </div>
                         </div>
                     </div>
@@ -252,7 +252,7 @@
 
     <!-- footer section start -->
     <footer>
-        <span>Created By <a href="https://www.codingnepalweb.com">CodingNepal</a> | <span class="far fa-copyright"></span> 2020 All rights reserved.</span>
+        <span>Created By <a href="https://kagion.github.io/">Sugiono</a> | <span class="far fa-copyright"></span> 2020 All rights reserved.</span>
     </footer>
 
     <script src="script.js"></script>
