@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!-- Created By Sugiono -->
+<!-- Created By CodingNepal -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -55,7 +55,7 @@
             <h2 class="title">About me</h2>
             <div class="about-content">
                 <div class="column left">
-                    <img src={{ assets("images/profile-1.jpeg") }} alt="">
+                    <img src="images/profile-1.jpeg" alt="">
                 </div>
                 <div class="column right">
                     <div class="text">I'm Sugiono and I'm a <span class="typing-2"></span></div>
@@ -155,35 +155,35 @@
             <div class="carousel owl-carousel">
                 <div class="card">
                     <div class="box">
-                        <img src={{ assets("images/profile-1.jpeg") }} alt="">
+                        <img src="images/profile-1.jpeg" alt="">
                         <div class="text">Someone name</div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
-                        <img src={{ assets("images/profile-2.jpeg") }} alt="">
+                        <img src="images/profile-2.jpeg" alt="">
                         <div class="text">Someone name</div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
-                        <img src={{ assets("images/profile-3.jpeg") }} alt="">
+                        <img src="images/profile-3.jpeg" alt="">
                         <div class="text">Someone name</div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
-                        <img src={{ assets("images/profile-4.jpeg") }} alt="">
+                        <img src="images/profile-4.jpeg" alt="">
                         <div class="text">Someone name</div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
                 </div>
                 <div class="card">
                     <div class="box">
-                        <img src={{ assets("images/profile-5.jpeg") }} alt="">
+                        <img src="images/profile-5.jpeg" alt="">
                         <div class="text">Someone name</div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
                     </div>
@@ -205,7 +205,7 @@
                             <i class="fas fa-user"></i>
                             <div class="info">
                                 <div class="head">Name</div>
-                                <div class="sub-title">Prakash Shahi</div>
+                                <div class="sub-title">Sugiono</div>
                             </div>
                         </div>
                         <div class="row">
